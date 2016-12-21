@@ -1,0 +1,164 @@
+header h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
+  color: #81A43C;
+}
+col {
+  height: 20rem;
+}
+img {
+  height: 100%;
+  width: 100%;
+  position: relative; 
+}
+ #bullet1 {
+  height: 30px;
+  width: 40px;
+  background-color: none;
+  position: absolute;
+  top: 50rem;
+  left: 23%;
+}
+#bullet2 {
+  height: 30px;
+  width: 40px;
+  background-color: none;
+  position: absolute;
+  top: 70rem;
+  left: 23%;
+}
+#bullet3 {
+  height: 30px;
+  width: 40px;
+  background-color: none;
+  position: absolute;
+  top: 90rem;
+  left: 23%;
+}
+#trainedproffs {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 32px;
+  position: absolute;
+  top: 47rem;
+  left: 29%;
+}
+#lowpric {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 32px;
+  position: absolute;
+  top: 67rem;
+  left: 29%;
+}
+#straightto {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 32px;
+  position: absolute;
+  top: 87rem;
+  left: 29%;
+}
+#proffparagraph {
+  font-family: 'Julius Sans One', sans-serif; 
+  position: absolute;
+  top: 53rem;
+  left: 29rem;
+  height: ;
+  width: 40%;
+}
+.classprices {
+  position: relative;
+  top: -43rem;
+  left: 29rem;
+  
+}
+body{
+  background-color: #584139;
+}
+.section {
+  border-top: 5px solid black;
+}
+.span_3_of_3 {
+  margin: auto;
+  margin-left: 0.5%;
+  margin-bottom: 1%;
+}
+.span_4_of_3 {
+  margin-bottom: 0%;
+}
+/*nav {
+  position: relative;
+  top: 35rem;
+  left: 21%;
+  border: 2px solid black;
+  width: 57.13%; 
+  height: 3rem;
+}*/
+.row {
+  height: 3rem;
+  width: 55%;
+  position: absolute;
+  top: 40rem;
+  left: 22.3%;
+  text-align: center;
+  font-size: 24px;
+  color: #D7E9B9;
+  font-family: 'Julius Sans One', sans-serif;
+}
+a {
+  color: #D7E9B9;
+  text-decoration: none;
+}
+
+div h1 {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Julius Sans One', sans-serif;
+  color: #93C240;
+}
+ol { 
+position: relative;
+top: -37em;
+left: 20.5%;
+height: 100%;
+width: 55.5%;
+
+}
+
+#hr1 {
+  width: 56rem;
+  position: relative;
+  right: 0.9rem;
+}
+#hr2 {
+  width: 56rem;
+  position: relative;
+  right: 0.9rem;
+}
+#hr3 {
+  width: 56rem;
+  position: absolute;
+  top: 103.5rem;
+  left: 23.8rem;
+}
+.mainpagediv {
+  
+}
+
+footer {
+  background-color: #C4F371;
+  height: 500px;
+  width: 100%;
+  font-family: 'Julius Sans One', sans-serif;
+  color: black;
+  position: fixed;
+  top:50rem;
+}
+footer section {
+  height: 5rem;
+  width: 21rem;
+  white-space: wrap;
+  position: absolute;
+  top: 3rem;
+}
